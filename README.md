@@ -1,3 +1,7 @@
+<video width="320" height="240" loop>
+  <source src="https://github.com/MustafaCQN/MustafaCQN/blob/main/video.mp4" type="video/mp4">
+</video>
+
 ### ⚙️ &nbsp;GitHub Analytics
 <p align="center">
   <a href="https://github.com/MustafaCQN">
