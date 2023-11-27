@@ -2,14 +2,6 @@
   <source src="https://github.com/MustafaCQN/MustafaCQN/blob/main/video.mp4" type="video/mp4">
 </video>
 
-### ⚙️ &nbsp;GitHub Analytics
-<p align="center">
-  <a href="https://github.com/MustafaCQN">
-      <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=MustafaCQN&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MustafaCQN&layout=compact&langs_count=8&theme=algolia"/>
-  </a>
-</p>
-
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
